@@ -1,10 +1,10 @@
 Manifest-Version: 1.0
-Implementation-Title: Eureka
+Implementation-Title: eureka
 Implementation-Version: 0.0.1-SNAPSHOT
-Built-By: vudgavib
-Implementation-Vendor-Id: com.eureka.dmc
+Built-By: dugginenia
+Implementation-Vendor-Id: com.eureka.stricar
 Build-Jdk: 1.8.0_212
 Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
- ot-starter-parent/Eureka
+ ot-starter-parent/eureka
 Created-By: Maven Integration for Eclipse
 
